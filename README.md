@@ -7,12 +7,14 @@
 For this project you are given the following print_array, and print_list functions:
 
 \#include <stdlib.h>
+
 \#include <stdio.h>
 
 /**
  \* print_array - Prints an array of integers
  *
  \* @array: The array to be printed
+
  \* @size: Number of elements in @array
  */
 
@@ -31,7 +33,8 @@ void print_array(const int *array, size_t size)
     printf("\n");
 }
 
-include <stdio.h>
+\#include <stdio.h>
+
 \#include "sort.h"
 
 /**
@@ -66,7 +69,9 @@ Please use the following data structure for doubly linked list:
  \* struct listint_s - Doubly linked list node
  *
  \* @n: Integer stored in the node
+
  \* @prev: Pointer to the previous element of the list
+
  \* @next: Pointer to the next element of the list
  */
 
@@ -80,12 +85,27 @@ typedef struct listint_s
 Please, note this format is used for Quiz and Task questions.
 
 O(1)
+
 O(n)
+
 O(n!)
+
 n square -> O(n^2)
+
 log(n) -> O(log(n))
+
 n * log(n) -> O(nlog(n))
+
 n + k -> O(n+k)
 …
 
-Please use the “short” notation (don’t use constants). Example: O(nk) or O(wn) should be written O(n). If an answer is required within a file, all your answers files must have a newline at the end.
+Please use the “short” notation (don’t use constants).
+
+Example:
+O(nk)
+
+or O(wn)
+
+should be written O(n).
+
+If an answer is required within a file, all your answers files must have a newline at the end.
