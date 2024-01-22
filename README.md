@@ -73,7 +73,7 @@ typedef struct listint_s
 {
     const int n;
     struct listint_s *prev;
-    struct listint_s *next;
+    struct listint_s |*next;
 } listint_t;
 
 Please, note this format is used for Quiz and Task questions.
