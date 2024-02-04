@@ -2,7 +2,7 @@
 
 ## More Info
 
-### Data Structure and Functions
+## Data Structure and Functions
 
 For this project you are given the following print_array, and print_list functions:
 
@@ -57,9 +57,9 @@ void print_list(const listint_t *list)
 
 Our files print_array.c and print_list.c (containing the print_array and print_list functions) will be compiled with your functions during the correction.
 
-Please declare the prototype of the functions print_array and print_list in your sort.h header file
+## Please declare the prototype of the functions print_array and print_list in your sort.h header file
 
-Please use the following data structure for doubly linked list:
+## Please use the following data structure for doubly linked list
 
 struct listint_s - Doubly linked list node
 
@@ -76,7 +76,7 @@ typedef struct listint_s
     struct listint_s |*next;
 } listint_t;
 
-Please, note this format is used for Quiz and Task questions.
+## Please, note this format is used for Quiz and Task questions.
 
 O(1)
 
@@ -93,9 +93,10 @@ n * log(n) -> O(nlog(n))
 n + k -> O(n+k)
 …
 
-Please use the “short” notation (don’t use constants).
+## Please use the “short” notation (don’t use constants).
 
 Example:
+
 O(nk)
 
 or O(wn)
@@ -103,3 +104,4 @@ or O(wn)
 should be written O(n).
 
 If an answer is required within a file, all your answers files must have a newline at the end.
+
