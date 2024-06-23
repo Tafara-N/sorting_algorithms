@@ -1063,7 +1063,7 @@ Write in the file `0-O`, the big O notations of the time complexity of the Bubbl
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 0-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1134,7 +1134,7 @@ Write in the file `1-O`, the big O notations of the time complexity of the Inser
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 1-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1239,7 +1239,7 @@ Write in the file `2-O`, the big O notations of the time complexity of the Selec
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 2-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1298,7 +1298,7 @@ Write in the file `3-O`, the big O notations of the time complexity of the Quick
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 3-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1353,7 +1353,7 @@ Write a function that sorts an array of integers in ascending order using the [S
 
 **No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap**
 
-```
+```bash
 alex@/tmp/sort$ cat 100-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1405,7 +1405,7 @@ Write in the file `101-O`, the big O notations of the time complexity of the Coc
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 101-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1513,7 +1513,7 @@ Write in the file `102-O`, the big O notations of the time complexity of the Cou
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 102-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1568,7 +1568,7 @@ Write in the file `103-O`, the big O notations of the time complexity of the Mer
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 103-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1654,7 +1654,7 @@ Write in the file `104-O`, the big O notations of the time complexity of the Hea
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 104-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1727,7 +1727,7 @@ Write a function that sorts an array of integers in ascending order using the [R
 - You are allowed to use `malloc` and `free` for this task
 - You’re expected to print the `array` each time you increase your `significant digit` (See example below)
 
-```
+```bash
 alex@/tmp/sort$ cat 105-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1781,7 +1781,7 @@ Write in the file `106-O`, the big O notations of the time complexity of the Bit
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 106-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1892,7 +1892,7 @@ Write in the file `107-O`, the big O notations of the time complexity of the Qui
 - in the average case
 - in the worst case
 
-```
+```bash
 alex@/tmp/sort$ cat 107-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -1935,7 +1935,7 @@ alex@/tmp/sort$
 
 Another example of output:
 
-```
+```bash
 alex@/tmp/sort$ ./quick_2
 87, 65, 28, 63, 93, 52, 39, 59, 27, 30, 24, 83, 69, 62, 13, 6, 88, 58, 92, 26, 42, 11, 16, 21, 75, 36, 71, 8, 45, 38
 
@@ -1991,7 +1991,7 @@ Write a function that sorts a deck of cards.
 - You are allowed to use the C standard library function `qsort`
 - Please use the following data structures:
 
-```
+```c
 typedef enum kind_e
 {
     SPADE = 0,
@@ -2037,7 +2037,7 @@ typedef struct deck_node_s
     - From Spades to Diamonds
     - See example below
 
-```
+```bash
 alex@/tmp/sort$ cat 1000-main.c
 #include <stdlib.h>
 #include <stdio.h>
