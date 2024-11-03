@@ -1888,7 +1888,7 @@ alex@/tmp/sort$
 
 ### 11. Quick Sort - Hoare Partition scheme
 
-Write a function that sorts an array of integers in ascending order using the [Quick sort](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
+Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
 
 - Prototype: `void quick_sort_hoare(int *array, size_t size);`
 - You must implement the `Hoare` partition scheme.
