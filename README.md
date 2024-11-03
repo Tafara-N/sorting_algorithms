@@ -1233,7 +1233,7 @@ alex@/tmp/sort$
 
 ### 2. Selection sort
 
-Write a function that sorts an array of integers in ascending order using the [Selection sort](https://intranet.alxswe.com/rltoken/SEbg0fBEraioQcl-igvUSw) algorithm
+Write a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm
 
 - Prototype: `void selection_sort(int *array, size_t size);`
 - You’re expected to print the `array` after each time you swap two elements (See example below)
