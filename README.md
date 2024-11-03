@@ -1728,7 +1728,7 @@ alex@/tmp/sort$
 
 ### 9. Radix sort
 
-Write a function that sorts an array of integers in ascending order using the [Radix sort](https://intranet.alxswe.com/rltoken/pBsj4j_AF_mJAgNZWmX3VQ) algorithm
+Write a function that sorts an array of integers in ascending order using the [Radix sort](https://en.wikipedia.org/wiki/Radix_sort) algorithm
 
 - Prototype: `void radix_sort(int *array, size_t size);`
 - You must implement the `LSD` radix sort algorithm
