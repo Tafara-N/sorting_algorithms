@@ -1125,7 +1125,7 @@ alex@/tmp/sort$
 
 ### 1. Insertion sort
 
-Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w) algorithm
+Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm
 
 - Prototype: `void insertion_sort_list(listint_t **list);`
 - You are not allowed to modify the integer `n` of a node. You have to swap the nodes themselves.
