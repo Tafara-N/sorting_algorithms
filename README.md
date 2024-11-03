@@ -6,7 +6,7 @@ This project is meant to be done by groups of two students. Each group of two sh
 ## Resources
 
 ## Read or watch:
-- [Sorting algorithm](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
+- [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Big O notation](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
 - [Sorting algorithms animations](https://intranet.alxswe.com/rltoken/ol0P7NbYVb5R31iOv4Q40A)
 - [15 sorting algorithms in 6 minutes](https://intranet.alxswe.com/rltoken/_I0aEvhfJ66Xyob6dd9Utw) (**WARNING**: *The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms*)
