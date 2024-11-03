@@ -1125,6 +1125,8 @@ alex@/tmp/sort$
 
 ### 1. Insertion sort
 
+[YouTube](https://www.youtube.com/watch?v=ROalU379l3U)
+
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm
 
 - Prototype: `void insertion_sort_list(listint_t **list);`
