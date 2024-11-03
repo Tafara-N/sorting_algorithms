@@ -11,7 +11,7 @@ This project is meant to be done by groups of two students. Each group of two sh
 - [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
 - [15 sorting algorithms in 6 minutes](https://www.youtube.com/watch?v=kPRA0W1kECg) (**WARNING**: *The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms*)
 - [CS50 Algorithms explanation in detail by David Malan](https://www.youtube.com/watch?v=yb0PY3LX2x8&t=2s)
-- [All about sorting algorithms](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
+- [All about sorting algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/b-QhraVUoSGmQ1C4QfNoFw), **without the help of Google:**
