@@ -1776,7 +1776,7 @@ alex@/tmp/sort$
 
 ### 10. Bitonic sort
 
-Write a function that sorts an array of integers in ascending order using the [Bitonic sort](https://intranet.alxswe.com/rltoken/N-bjAbxm5yr4DoeIDz5lLw) algorithm
+Write a function that sorts an array of integers in ascending order using the [Bitonic sort](https://en.wikipedia.org/wiki/Bitonic_sorter) algorithm
 
 - Prototype: `void bitonic_sort(int *array, size_t size);`
 - You can assume that `size` will be equal to `2^k`, where `k >= 0` (when `array` is not `NULL` …)
