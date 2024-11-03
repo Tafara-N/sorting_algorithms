@@ -1233,6 +1233,8 @@ alex@/tmp/sort$
 
 ### 2. Selection sort
 
+[YouTube](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+
 Write a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm
 
 - Prototype: `void selection_sort(int *array, size_t size);`
