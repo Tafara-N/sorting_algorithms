@@ -1,7 +1,7 @@
 ![ALGORITHMS](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
 
 # Background Context
-This project is meant to be done by groups of two students. Each group of two should [pair program](https://intranet.alxswe.com/rltoken/gIcHRL9I7i1lw2CTAll37A) for at least the mandatory part.
+This project is meant to be done by groups of two students. Each group of two should [pair program](https://en.wikipedia.org/wiki/Pair_programming) for at least the mandatory part.
 
 ## Resources
 
