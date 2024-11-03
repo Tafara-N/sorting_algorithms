@@ -1352,7 +1352,7 @@ alex@/tmp/sort$
 
 ### 4. Shell sort - Knuth Sequence
 
-Write a function that sorts an array of integers in ascending order using the [Shell sort](https://intranet.alxswe.com/rltoken/FdpP4Qin3iDAaz1kuPD2Kg) algorithm, using the `Knuth sequence`
+Write a function that sorts an array of integers in ascending order using the [Shell sort](https://en.wikipedia.org/wiki/Shellsort) algorithm, using the `Knuth sequence`
 
 - Prototype: `void shell_sort(int *array, size_t size);`
 - You must use the following sequence of intervals (a.k.a the Knuth sequence):
