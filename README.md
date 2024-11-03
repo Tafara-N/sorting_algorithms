@@ -1994,6 +1994,8 @@ alex@/tmp/sort$
 
 ### 12. Dealer
 
+[YouTube](https://www.youtube.com/watch?v=_HJlGWXzlLA)
+
 Write a function that sorts a deck of cards.
 
 - Prototype: `void sort_deck(deck_node_t **deck);`
