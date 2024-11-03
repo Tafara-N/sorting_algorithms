@@ -1053,6 +1053,8 @@ What is the time complexity of searching for an element in an unsorted Python 3 
 
 ### 0. Bubble sort
 
+[YouTube](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm
 
 - Prototype: `void bubble_sort(int *array, size_t size);`
