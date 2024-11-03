@@ -14,7 +14,7 @@ This project is meant to be done by groups of two students. Each group of two sh
 - [All about sorting algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/b-QhraVUoSGmQ1C4QfNoFw), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - At least four different sorting algorithms
