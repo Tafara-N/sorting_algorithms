@@ -1651,7 +1651,7 @@ alex@/tmp/sort$
 
 ### 8. Heap sort
 
-Write a function that sorts an array of integers in ascending order using the [Heap sort](https://intranet.alxswe.com/rltoken/YKYRdSdomaVkNrtNv1KS6Q) algorithm
+Write a function that sorts an array of integers in ascending order using the [Heap sort](https://en.wikipedia.org/wiki/Heapsort) algorithm
 
 - Prototype: `void heap_sort(int *array, size_t size);`
 - You must implement the `sift-down` heap sort algorithm
