@@ -1,4 +1,4 @@
-![ALGORITHMS](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png)
+![ALGORITHMS](images/willy-wonka.png)
 
 # Background Context
 This project is meant to be done by groups of two students. Each group of two should [pair program](https://en.wikipedia.org/wiki/Pair_programming) for at least the mandatory part.
