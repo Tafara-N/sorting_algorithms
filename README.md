@@ -23,6 +23,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is a stable sorting algorithm
 
 # Requirements
+
 ## General
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
