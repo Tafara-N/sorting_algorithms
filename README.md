@@ -1561,7 +1561,7 @@ alex@/tmp/sort$
 
 ### 7. Merge sort
 
-Write a function that sorts an array of integers in ascending order using the [Merge sort](https://intranet.alxswe.com/rltoken/8sZ3nAhd_YLNzHCgNbbf8A) algorithm
+Write a function that sorts an array of integers in ascending order using the [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
 - Prototype: `void merge_sort(int *array, size_t size);`
 - You must implement the top-down merge sort algorithm
