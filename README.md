@@ -1508,7 +1508,7 @@ alex@/tmp/sort$
 
 ### 6. Counting sort
 
-Write a function that sorts an array of integers in ascending order using the [Counting sort](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ) algorithm
+Write a function that sorts an array of integers in ascending order using the [Counting sort](https://en.wikipedia.org/wiki/Counting_sort) algorithm
 
 - Prototype: `void counting_sort(int *array, size_t size);`
 You can assume that `array` will contain only numbers `>= 0`
