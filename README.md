@@ -1292,7 +1292,9 @@ alex@/tmp/sort$
 
 ### 3. Quick sort
 
-Write a function that sorts an array of integers in ascending order using the [Quick sort](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
+[YouTube](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+
+Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
 
 - Prototype: `void quick_sort(int *array, size_t size);`
 - You must implement the `Lomuto` partition scheme.
