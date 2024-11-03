@@ -1402,7 +1402,7 @@ alex@/tmp/sort$
 
 ### 5. Cocktail shaker sort
 
-Write a function that sorts a doubly linked list of integers in ascending order using the [Cocktail shaker sort](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA) algorithm
+Write a function that sorts a doubly linked list of integers in ascending order using the [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) algorithm
 
 - Prototype: `void cocktail_sort_list(listint_t **list);`
 - You are not allowed to modify the integer `n` of a node. You have to swap the nodes themselves.
